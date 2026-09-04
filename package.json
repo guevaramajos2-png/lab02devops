@@ -1,0 +1,11 @@
+{
+  "name": "app-ejemplo-m3",
+  "version": "1.0.0",
+  "description": "App de ejemplo desplegable para el Modulo 3 (migracion Jenkins -> Actions)",
+  "scripts": {
+    "lint": "echo 'lint: sin errores (stub)' && exit 0",
+    "test": "node --test tests/*.test.js",
+    "build": "node src/build.js"
+  },
+  "license": "MIT"
+}
